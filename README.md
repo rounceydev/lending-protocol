@@ -137,7 +137,7 @@ evm-defi-lending-protocol/
 
 1. Clone the repository:
 ```bash
-cd lending-protocol-1/evm-defi-lending-protocol
+cd lending-protocol
 ```
 
 2. Install dependencies:
